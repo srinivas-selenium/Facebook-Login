@@ -25,7 +25,7 @@ public class TC_LoginTest_001 extends BaseClass {
 		if(driver.getTitle().equalsIgnoreCase("Facebook – log in or sign up"))
 		{
 			Assert.assertTrue(true);
-			logger.info("Login test pass");
+			logger.info("Login test sucessfully pass");
 		}
 		else {
 			captureScreen(driver, "failed");
