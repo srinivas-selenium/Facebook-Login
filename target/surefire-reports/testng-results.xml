@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FaceBook" duration-ms="32300" started-at="2020-12-23T12:56:41 IST" finished-at="2020-12-23T12:57:13 IST">
+    <groups>
+    </groups>
+    <test name="FaceBook Test" duration-ms="32300" started-at="2020-12-23T12:56:41 IST" finished-at="2020-12-23T12:57:13 IST">
+      <class name="com.pro.testcases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pro.testcases.TC_LoginTest_001@6f7fd0e6]" name="setUp" is-config="true" duration-ms="11946" started-at="2020-12-23T12:56:41 IST" finished-at="2020-12-23T12:56:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.pro.testcases.TC_LoginTest_001@6f7fd0e6]" name="loginTest" duration-ms="19347" started-at="2020-12-23T12:56:53 IST" finished-at="2020-12-23T12:57:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDowm()[pri:0, instance:com.pro.testcases.TC_LoginTest_001@6f7fd0e6]" name="tearDowm" is-config="true" duration-ms="740" started-at="2020-12-23T12:57:13 IST" finished-at="2020-12-23T12:57:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowm -->
+      </class> <!-- com.pro.testcases.TC_LoginTest_001 -->
+    </test> <!-- FaceBook Test -->
+  </suite> <!-- FaceBook -->
+</testng-results>

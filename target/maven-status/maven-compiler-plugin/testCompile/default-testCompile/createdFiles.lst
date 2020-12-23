@@ -1,0 +1,4 @@
+com\pro\testcases\BaseClass.class
+com\pro\pageobjects\LoginPage.class
+com\pro\utiltes\ReportingStatus.class
+com\pro\utiltes\ReadConfig.class
